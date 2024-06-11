@@ -1,0 +1,61 @@
+body{
+    width: 100vh;
+    height: 100vh;
+}
+
+.container{
+    width: 300px;
+    height: 500px;
+    width: 50%;
+    position: absolute;
+    top: 30%;
+    left: 40%;  
+   
+}
+.start{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+}
+
+.start button{
+    font-size: 20px;
+    background-color: cadetblue;
+}
+
+.music{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%,-50%);
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.info{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.icons{
+    width: 80%;
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+   
+}
+
+.fa-play,.fa-pause{
+    position: absolute;
+}
+
+.passive{
+    visibility:hidden;
+}
