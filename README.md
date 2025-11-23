@@ -17,6 +17,7 @@ Clean and simple layout
 No external libraries required
 
 ## Project Structure
+```
 Music-Player
  ├── index.html
  ├── script.js
@@ -29,7 +30,7 @@ Music-Player
       ├── Sultan ı yegah.mp3
       ├── Konuşsana Bir Tanem.mp3
       └── Ağla Halime.mp3
-
+```
 ## Technologies Used
 
 HTML5
@@ -109,4 +110,4 @@ Audio controls (back, play, pause, stop, next)
 ## License
 
 This project currently does not include a license.
-You may add one if you plan to publish or distribute it.
+
